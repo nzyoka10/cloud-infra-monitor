@@ -1,0 +1,6 @@
+# File: backend/requirements.txt
+# Description: Python dependencies for the backend FastAPI application
+
+fastapi
+uvicorn
+psycopg2-binary
